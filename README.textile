@@ -1,7 +1,7 @@
 h1. Database backup automation
 
 
-* The Scripts Creates a Database Backup file  for your *mysql* Database.
+* The Scripts Creates a Database Backup file  for your *mysql-server* Database.
 * The script uses the following variables which are placed in the .bashrc file(you can use your own method to create permanent variables)
 
 
